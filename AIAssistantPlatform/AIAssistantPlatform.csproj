@@ -13,7 +13,6 @@
     <Folder Include="Commands\" />
     <Folder Include="History\" />
     <Folder Include="UI\" />
-    <Folder Include="Plugins\" />
   </ItemGroup>
 
 </Project>
